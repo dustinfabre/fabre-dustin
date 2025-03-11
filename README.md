@@ -1,3 +1,5 @@
+This is just a laravel 12 testing and study
+
 ## Project Setup Instructions
 
 1. Install PHP dependencies:
