@@ -24,5 +24,3 @@
     ```sh
     composer pest
     ```
-
-...existing content...
